@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)
 <h1 align="center">Hi 👋, I'm Kaushik Rajesh</h1>
 <h3 align="center">Fueled by curiosity, I craft intelligent solutions, driving innovation in AI, ML, and data science projects.</h3>
 
