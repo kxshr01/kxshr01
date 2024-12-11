@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.google.co.in/url?sa=i&url=https://github.com/lukasz-staniszewski/ml-algorithms-scratch&psig=AOvVaw28WFRh7V7UItfbK2Ljc9UZ&ust=1734045386538000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOitsM3soIoDFQAAAAAdAAAAABAJ)]
+[![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)]
 <h1 align="center">Hi 👋, I'm Kaushik Rajesh</h1>
 <h3 align="center">Fueled by curiosity, I craft intelligent solutions, driving innovation in AI, ML, and data science projects.</h3>
 
