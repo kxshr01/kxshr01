@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud**
 
-- 💬 Ask me about **python, AI/ML**
+- 💬 Ask me about **Python, AI/ML Solutions**
 
 - 📫 How to reach me **kaushikrajesh490@gmail.com**
 
