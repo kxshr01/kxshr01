@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kaushik Rajesh</h1>
 <h3 align="center">Fueled by curiosity, I craft intelligent solutions, driving innovation in AI, ML, and data science projects.</h3>
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning **AWS Machine Learning Solutions**
 
 - 💬 Ask me about **Python, AI/ML Solutions**
 
